@@ -5,3 +5,5 @@ THe drum kit website is a learning curve for understanding how to modules in jav
 
 THe way this website works is that there a a couple of keys that represent a drums in a typical drum-set.
 And when you click on any buttons or specific keys, then you will get the corresponding sound of the drum.
+
+![](images/drumkit.png)
